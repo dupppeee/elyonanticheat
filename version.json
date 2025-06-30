@@ -1,12 +1,6 @@
 {
-  "version": "1.5",
+  "version": "0.5",
   "changelog": [
-        "Spoofed Weapons Detection",
-        "Better No-Clip Detection",
-        "Anti Spoof Feature",
-        "New command - unbanAll",
-        "Better ban logic",
-        "Bug fixed and a lot of optimizations",
-        "Check out the full changelog on our Discord"
+  "Elyon Anticheat Beta Release"
   ]
 }
